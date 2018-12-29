@@ -84,7 +84,7 @@ Low group (mark 1) is the 2 group without any changes. It's not a safe group wit
 This is the final table of boroughs clusters:
 <img src='boroughs.jpg'>
 Then I've combined results and here you can see the resulted map, where yellow circles on a deep green background are preferable localities for my family, the second priority is yellow circles on the light green background.
-<img src='final_map.gpg'>
+<img src='final_map.jpg'>
 The final table is available in the code file.
 
 
